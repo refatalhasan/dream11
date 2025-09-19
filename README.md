@@ -1,25 +1,53 @@
-# Dream11
+# 🏏 Dream11 – Cricket Player Auction App  
 
-A simple responsive website built to showcase my fundamental skills in **HTML** and **Tailwind CSS**.  
-This project focuses on clean structure, utility-first styling, and responsive grid & flex layouts to strengthen my front-end development foundation.
-
----
-
-## 🚀 Technologies Used
-
-- React.js  
-- Tailwind CSS  
+A responsive **React** + **Tailwind CSS** project that simulates a cricket player auction system.  
+Players can be **added, bid on, and managed**, showcasing clean React structure, Tailwind utility-first styling, and responsive layouts.  
 
 ---
 
-## 🌐 Live
+## 🚀 Features  
 
-[Click here to see the live website](https://refatalhasan.github.io/Rinterio/)  
+- Add and manage cricket players  
+- Place bids on players  
+- Responsive design using **flex** and **grid**  
+- Built with **React.js** (component-based architecture)  
+- Styled with **Tailwind CSS** (utility-first approach)  
 
 ---
 
-## 🔗 Clone this repo
+## 🛠️ Technologies Used  
 
+- **React.js** – UI components and state management  
+- **Tailwind CSS** – responsive, utility-first styling  
+
+---
+
+## 🌐 Live Demo  
+
+👉 [View Live Project](https://thedream11.netlify.app/)  
+
+---
+
+## 🔗 Installation & Setup  
+
+Clone the repo and run locally:  
+
+
+# Clone this repository
 ```
 git clone https://github.com/refatalhasan/dream11.git
+```
+# Navigate into the project
+```
+cd dream11
+```
+
+# Install dependencies
+```
+npm install
+```
+
+# Start the development server
+```
+npm run dev
 ```
